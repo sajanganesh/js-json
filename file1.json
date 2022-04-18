@@ -1,0 +1,38 @@
+[
+   {
+      "name": "sajan",
+      "Email": "sajan1@gmail.com",
+      "Password": "Asd@1234",
+      "description": "asdg",
+      "date_of_birth": "12/5/2005",
+      "hobby": "cooking",
+      "gender": "female"
+   },
+   {
+      "name": "chetu",
+      "Email": "chetu1@gmail.com",
+      "Password": "aSD@1234",
+      "description": "sdgh",
+      "date_of_birth": "12/7/2007",
+      "hobby": "sdfg",
+      "gender": "male"
+   },
+   {
+      "name": "saju",
+      "Email": "saju1@gmail.com",
+      "Password": "asZX@1234",
+      "description": "h",
+      "date_of_birth": "12/3/2009",
+      "hobby": "cooking",
+      "gender": "femle"
+   },
+   {
+      "name": "priti",
+      "Email": "priti2@gmail.com",
+      "Password": "asZX@1234",
+      "description": "asdf",
+      "date_of_birth": "12/4/2003",
+      "hobby": "dance",
+      "gender": "female"
+   }
+]
